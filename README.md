@@ -7,6 +7,6 @@ Password Generator written in JavaScript, HTML and CSS
 This password generator prompts the user for criteria to create a random password which they can then copy and use. The browser will prompt the user and only execute if conditionals are met. The password will be between 8-128 characters and can include special characters, numbers, upper and lower case characters.
 
 ###
-Written by CHristian Alteri
+Written by Christian Alteri
 
 
