@@ -14,7 +14,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-color: #a2a2a2;
 }
 
 .wrapper {
@@ -133,5 +133,6 @@ button[disabled] {
 @media (max-width: 500px) {
   .btn {
     font-size: 0.8rem;
+    /* TODO: include a responsive design */
   }
 }
